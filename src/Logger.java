@@ -1,14 +1,9 @@
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class Logger {
-
     public void log(String msg) {
         try {
             File file = new File("logs.txt");

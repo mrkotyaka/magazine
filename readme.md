@@ -1,10 +1,10 @@
-# План работы программы #
-- Приветствие
-- Вход под поставщиком или потребителем
-- Если потребитель:
-- Выводит список функциональности: список товаров / корзина
-- Если Список товара: Запрос ввести номер товара и его количества
-- Если Корзина: Отображает купленные товары
-- Применение Промокода 10%
-- Если поставщик:
-- отправка письма (иммитация)
+# Program Work Plan #
+- Greeting
+- Login as a supplier or consumer
+- If consumer:
+- Displays a list of features: list of goods / shopping cart
+- If list of goods: Request to enter the item number and quantity
+- If shopping cart: Displays purchased items
+- Apply 10% promo code
+- If supplier:
+- Send letter (simulation)
